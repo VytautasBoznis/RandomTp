@@ -1,0 +1,12 @@
+name: RandomTp
+version: 0.0.1
+main: lt.skilas.randomtp.RandomTp
+commands:
+    rtp:
+        description: Used to acces all the RandomTp commands.
+        permission: RandomTp.rtp
+        permission-message: You don't have the permission to use this plugin.
+    randomtp:
+        description: Used to acces all the RandomTp commands.
+        permission: RandomTp.randomtp
+        permission-message: You don't have the permission to use this plugin.
