@@ -3,6 +3,11 @@ RandomTp
 
 RandomTp is a Bukkit plugin that teleports players in a random movement patern till a good teleportation location is found.
 
+<b> IMPORTANT: </b>
+
+  This plugin is using Maven. So make sure you have Maven set up in you IDE befor importing project!
+  
+
 <b>To use the plugin:</b>
 
 
